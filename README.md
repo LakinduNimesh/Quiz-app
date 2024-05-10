@@ -2,6 +2,8 @@
 
 Quiz app - HTML/CSS and Java Script
 
+![Screenshot 2024-05-10 180754](https://github.com/LakinduNimesh/Quiz-app/assets/149768006/eeaeaaa6-f42b-4b7d-b8cf-da1f78440580)
+
 👋 Welcome to my GitHub! I'm Lakindu Nimesh, and I've crafted an interactive Quiz app using HTML, CSS, and JavaScript. Join me as we explore the world of quizzes in this fun and educational project!
 
 🚀 Dive into the code to see how I've structured the app, designed the user interface, and implemented the quiz functionality. Whether you're a coding enthusiast or a quiz aficionado, there's something here for everyone to enjoy.
